@@ -1,0 +1,30 @@
+﻿<Window x:Class="UIScrambled.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:UIScrambled"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500">
+    <Grid Background="Wheat">
+        <Border MinHeight="300" MaxHeight="400" MaxWidth="750" MinWidth="400" Margin="15" Padding="30" CornerRadius="20" Background="White">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="80" Color="Gray" ShadowDepth="5"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="ТУТ будет алгоритм" FontSize="30" FontWeight="ExtraBlack" Margin="0 0 0 20" />
+
+                <Grid Margin="0 50
+                      0 20">
+                    <Button HorizontalAlignment="Left" Content="Лёгкая" Width="100"/>
+                    <Button HorizontalAlignment="Center" Content="Средняя" Width="100"/>
+                    <Button HorizontalAlignment="Right" Content="Сложная" Width="100"/>
+                </Grid>
+                <TextBox materialDesign:HintAssist.Hint="Количество ходов" Width="110" HorizontalAlignment="Left" Style="{DynamicResource MaterialDesignFloatingHintTextBox}"/>
+                <Button Content="Сгенерировать" Margin="0 20 0 20" Width="400"/>
+            </StackPanel>
+        </Border>
+        
+    </Grid>
+</Window>

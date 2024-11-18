@@ -15,8 +15,7 @@
             <StackPanel>
                 <TextBlock Text="ТУТ будет алгоритм" FontSize="30" FontWeight="ExtraBlack" Margin="0 0 0 20" />
 
-                <Grid Margin="0 50
-                      0 20">
+                <Grid Margin="0 50 0 20">
                     <Button HorizontalAlignment="Left" Content="Лёгкая" Width="100"/>
                     <Button HorizontalAlignment="Center" Content="Средняя" Width="100"/>
                     <Button HorizontalAlignment="Right" Content="Сложная" Width="100"/>

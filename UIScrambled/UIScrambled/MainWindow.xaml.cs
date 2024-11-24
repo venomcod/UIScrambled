@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MaterialDesignThemes.Wpf;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,6 +22,7 @@ namespace UIScrambled
     public partial class MainWindow : Window
     {
         static Random rnd = new Random();
+        static int currentDif = 0;
 
         enum Dificalti
         {
@@ -71,5 +73,47 @@ namespace UIScrambled
             InitializeComponent();
         }
 
+        private void Easy_Button_Click(object sender, RoutedEventArgs e)
+        {
+
+            currentDif = (int)Dificalti.Easy;
+            Text_Dif.Text = "Лёгкая";
+
+        }
+
+        private void Medium_Button_Click(object sender, RoutedEventArgs e)
+        {
+            currentDif = (int)Dificalti.Medium;
+            Text_Dif.Text = "Средняя";
+        }
+
+        private void Hard_Button_Click(object sender, RoutedEventArgs e)
+        {
+            currentDif = (int)Dificalti.Hard;
+            Text_Dif.Text = "Сложная";
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            Text_Dif.Text = "Своя";
+            currentDif = 0;
+        }
+
+        private void Generate_Click(object sender, RoutedEventArgs e)
+        {
+            string col = TextBox.Text;
+            if (col != "")
+            {
+                int icol = int.Parse(col);
+                Resualt.Text = CreateScramble(icol);
+            }
+            else if (currentDif == 0)
+            {
+            }
+            else if (currentDif > 0)
+            {
+                Resualt.Text = CreateScramble(currentDif);
+            }
+        }
     }
 }

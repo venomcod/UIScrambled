@@ -6,22 +6,23 @@
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:local="clr-namespace:UIScrambled"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="500">
+        Title="MainWindow" Height="500" Width="500">
     <Grid Background="Wheat">
-        <Border MinHeight="300" MaxHeight="400" MaxWidth="750" MinWidth="400" Margin="15" Padding="30" CornerRadius="20" Background="White">
+        <Border MinHeight="400" MaxHeight="400" MaxWidth="450" MinWidth="400" Margin="15" Padding="30" CornerRadius="20" Background="White">
             <Border.Effect>
                 <DropShadowEffect BlurRadius="80" Color="Gray" ShadowDepth="5"/>
             </Border.Effect>
             <StackPanel>
-                <TextBlock Text="ТУТ будет алгоритм" FontSize="30" FontWeight="ExtraBlack" Margin="0 0 0 20" />
+                <TextBlock x:Name="Resualt" Text="ТУТ будет алгоритм" FontSize="25" FontWeight="ExtraBlack" Margin="0 0 0 0" Height="100" Width="390" MaxWidth="390" Cursor="" TextAlignment="Center" TextWrapping="Wrap" />
 
-                <Grid Margin="0 50 0 20">
-                    <Button HorizontalAlignment="Left" Content="Лёгкая" Width="100"/>
-                    <Button HorizontalAlignment="Center" Content="Средняя" Width="100"/>
-                    <Button HorizontalAlignment="Right" Content="Сложная" Width="100"/>
+                <Grid Margin="0 0 0 20">
+                    <Button x:Name="Easy_Button" HorizontalAlignment="Left" Content="Лёгкая" Width="100" Click="Easy_Button_Click" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"/>
+                    <Button x:Name="Medium_Button" HorizontalAlignment="Center" Content="Средняя" Width="100" Click="Medium_Button_Click" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"/>
+                    <Button x:Name="Hard_Button" HorizontalAlignment="Right" Content="Сложная" Width="100" Click="Hard_Button_Click" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"/>
                 </Grid>
-                <TextBox materialDesign:HintAssist.Hint="Количество ходов" Width="110" HorizontalAlignment="Left" Style="{DynamicResource MaterialDesignFloatingHintTextBox}"/>
-                <Button Content="Сгенерировать" Margin="0 20 0 20" Width="400"/>
+                <TextBlock x:Name="Text_Dif" Text="" FontSize="25" FontWeight="Bold" HorizontalAlignment="Center" Margin="0 0 0 20"/>
+                <TextBox x:Name="TextBox" materialDesign:HintAssist.Hint="Количество ходов" Width="110" HorizontalAlignment="Center" TextChanged="TextBox_TextChanged" Style="{DynamicResource MaterialDesignFloatingHintTextBox}"/>
+                <Button Content="Сгенерировать" Margin="0 40 0 20" Width="400" Click="Generate_Click"/>
             </StackPanel>
         </Border>
         

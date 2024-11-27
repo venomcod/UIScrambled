@@ -78,6 +78,8 @@ namespace UIScrambled
 
             currentDif = (int)Dificalti.Easy;
             Text_Dif.Text = "Лёгкая";
+            TextBox.Background = null;
+            TextBox.Text = "";
 
         }
 
@@ -85,30 +87,53 @@ namespace UIScrambled
         {
             currentDif = (int)Dificalti.Medium;
             Text_Dif.Text = "Средняя";
+            TextBox.Background = null;
+            TextBox.Text = "";
         }
 
         private void Hard_Button_Click(object sender, RoutedEventArgs e)
         {
             currentDif = (int)Dificalti.Hard;
             Text_Dif.Text = "Сложная";
+            TextBox.Background = null;
+            TextBox.Text = "";
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
             Text_Dif.Text = "Своя";
             currentDif = 0;
+            TextBox.Background = null;
         }
 
         private void Generate_Click(object sender, RoutedEventArgs e)
         {
             string col = TextBox.Text;
-            if (col != "")
+            if (currentDif == 0)
             {
-                int icol = int.Parse(col);
-                Resualt.Text = CreateScramble(icol);
-            }
-            else if (currentDif == 0)
-            {
+                try
+                {
+                    if (int.Parse(col) < 36)
+                    {
+                        int icol = int.Parse(col);
+                        Resualt.Text = CreateScramble(icol);
+                        TextBox.Text = "";
+                    }
+                    else
+                    {
+                        Resualt.Text = "Превышено количество ходов!";
+                        var bc = new BrushConverter();
+                        TextBox.Text = "";
+                        TextBox.Background = (Brush)bc.ConvertFrom("#7FFF0000");
+                    }
+                }
+                catch
+                {
+                    Resualt.Text = "В поле можно писать только цифры!";
+                    var bc = new BrushConverter();
+                    TextBox.Text = "";
+                    TextBox.Background = (Brush)bc.ConvertFrom("#7FFF0000");
+                }
             }
             else if (currentDif > 0)
             {

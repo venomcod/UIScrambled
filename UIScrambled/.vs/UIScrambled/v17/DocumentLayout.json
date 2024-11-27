@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\uiscrambled\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\uiscrambled\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|c:\\users\\pisul\\documents\\coding c#\\repos\\uiscrambled\\uiscrambled\\uiscrambled\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\uiscrambled\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|c:\\users\\pisul\\documents\\coding c#\\repos\\uiscrambled\\uiscrambled\\uiscrambled\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\MainWindow.xaml",
               "RelativeDocumentMoniker": "UIScrambled\\MainWindow.xaml",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\App.xaml",
               "RelativeDocumentMoniker": "UIScrambled\\App.xaml",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "UIScrambled\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\MainWindow.xaml.cs",
               "RelativeToolTip": "UIScrambled\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAgwHIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwIAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T09:57:29.784Z",
               "EditorCaption": ""

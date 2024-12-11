@@ -20,3 +20,7 @@ C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScramb.44D016CD.Up2Date
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScrambled.exe
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScrambled.pdb
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\UIScrambled.exe.manifest
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\UIScrambled.application
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScrambled.exe.manifest
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScrambled.application

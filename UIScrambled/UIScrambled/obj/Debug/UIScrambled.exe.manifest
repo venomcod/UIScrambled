@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="UIScrambled.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="ru" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="UIScrambled.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="ru" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="UIScrambled" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,38 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaterialDesignColors.dll" size="299520">
-      <assemblyIdentity name="MaterialDesignColors" version="1.2.3.1244" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>69TIKA2Ha8DGHlm0uxe/+aBJo2H3LGjqzqUHDzBCMis=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaterialDesignThemes.Wpf.dll" size="7237632">
-      <assemblyIdentity name="MaterialDesignThemes.Wpf" version="3.1.0.1244" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jX45aHUSmbC9Xjcc8Gw6eB3mlhBAbFpkOluGTQk8xNc=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UIScrambled.exe" size="15328">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UIScrambled.exe" size="2647008">
       <assemblyIdentity name="UIScrambled" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>f6u7ybVaPylT11gVbTkpkaiAH7akb3fu92z1zuvq+P0=</dsig:DigestValue>
+        <dsig:DigestValue>LAMzQ0H9lvegvle1+SO44koJs1aoiuTCbTowb9tNNfw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

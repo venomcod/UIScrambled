@@ -1,10 +1,6 @@
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\UIScrambled.exe.config
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\UIScrambled.exe
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\UIScrambled.pdb
-C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\MaterialDesignColors.dll
-C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\MaterialDesignThemes.Wpf.dll
-C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\MaterialDesignColors.pdb
-C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\MaterialDesignThemes.Wpf.pdb
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\MaterialDesignThemes.Wpf.xml
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Release\UIScrambled.csproj.AssemblyReference.cache
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Release\MainWindow.g.cs
@@ -20,3 +16,14 @@ C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Release\UIScramb.44D016CD.Up2Date
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Release\UIScrambled.exe
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Release\UIScrambled.pdb
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\UIScrambled.exe.manifest
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\UIScrambled.application
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Release\UIScrambled.exe.manifest
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Release\UIScrambled.application
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\Costura.dll
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\MaterialDesignColors.dll
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\Costura.pdb
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\Costura.xml
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\MaterialDesignColors.pdb
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Release\MaterialDesignThemes.Wpf.pdb

@@ -3,22 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UIScrambled||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|c:\\users\\pisul\\documents\\coding c#\\repos\\uiscrambled\\uiscrambled\\uiscrambled\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\uiscrambled\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UIScrambled||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\uiscrambled\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|c:\\users\\pisul\\documents\\coding c#\\repos\\uiscrambled\\uiscrambled\\uiscrambled\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\uiscrambled\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|c:\\users\\pisul\\documents\\coding c#\\repos\\uiscrambled\\uiscrambled\\uiscrambled\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\uiscrambled\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|solutionrelative:uiscrambled\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70253EFF-002C-421B-A48C-3296180ADC1C}|UIScrambled\\UIScrambled.csproj|c:\\users\\pisul\\documents\\coding c#\\repos\\uiscrambled\\uiscrambled\\uiscrambled\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,8 +32,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -37,26 +45,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UIScrambled",
-              "DocumentMoniker": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\UIScrambled.csproj",
-              "RelativeDocumentMoniker": "UIScrambled\\UIScrambled.csproj",
-              "ToolTip": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\UIScrambled.csproj*",
-              "RelativeToolTip": "UIScrambled\\UIScrambled.csproj*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-11T11:51:32.886Z",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UIScrambled\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UIScrambled\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:57:29.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UIScrambled",
+              "DocumentMoniker": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\UIScrambled.csproj",
+              "RelativeDocumentMoniker": "UIScrambled\\UIScrambled.csproj",
+              "ToolTip": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\UIScrambled.csproj",
+              "RelativeToolTip": "UIScrambled\\UIScrambled.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T01:52:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UIScrambled\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "UIScrambled\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:28:56.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\MainWindow.xaml",
               "RelativeDocumentMoniker": "UIScrambled\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\MainWindow.xaml",
               "RelativeToolTip": "UIScrambled\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T09:57:30.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T09:57:30.81Z"
             },
             {
               "$type": "Document",
@@ -67,21 +99,7 @@
               "ToolTip": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\App.xaml",
               "RelativeToolTip": "UIScrambled\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T10:03:39.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "UIScrambled\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\pisul\\Documents\\Coding C#\\Repos\\UIScrambled\\UIScrambled\\UIScrambled\\MainWindow.xaml.cs",
-              "RelativeToolTip": "UIScrambled\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowIAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T09:57:29.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T10:03:39.308Z"
             }
           ]
         }

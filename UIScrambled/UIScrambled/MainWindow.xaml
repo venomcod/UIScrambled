@@ -13,7 +13,7 @@
                 <DropShadowEffect BlurRadius="80" Color="Gray" ShadowDepth="5"/>
             </Border.Effect>
             <StackPanel>
-                <TextBlock x:Name="Resualt" Text="Тут будет алгоритм" FontSize="25" FontWeight="ExtraBlack" Margin="0 0 0 0" Height="100" Width="390" MaxWidth="390" Cursor="" TextAlignment="Center" TextWrapping="Wrap" />
+                <TextBlock x:Name="Resualt" Text="Алгоритм" FontSize="25" FontWeight="ExtraBlack" Margin="0 0 0 0" Height="100" Width="390" MaxWidth="390" Cursor="" TextAlignment="Center" TextWrapping="Wrap" />
 
                 <Grid Margin="0 0 0 20">
                     <Button x:Name="Easy_Button" HorizontalAlignment="Left" Content="Лёгкая" Width="100" Click="Easy_Button_Click" Style="{DynamicResource MaterialDesignFlatDarkBgButton}"/>

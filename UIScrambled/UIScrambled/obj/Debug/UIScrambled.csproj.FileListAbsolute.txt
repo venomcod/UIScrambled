@@ -1,10 +1,6 @@
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\UIScrambled.exe.config
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\UIScrambled.exe
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\UIScrambled.pdb
-C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\MaterialDesignColors.dll
-C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\MaterialDesignThemes.Wpf.dll
-C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\MaterialDesignColors.pdb
-C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\MaterialDesignThemes.Wpf.pdb
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\MaterialDesignThemes.Wpf.xml
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScrambled.csproj.AssemblyReference.cache
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\MainWindow.g.cs
@@ -24,3 +20,5 @@ C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\bin\Debug\UIScrambled.application
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScrambled.exe.manifest
 C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScrambled.application
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScrambled.csproj.Fody.CopyLocal.cache
+C:\Users\pisul\Documents\Coding C#\Repos\UIScrambled\UIScrambled\UIScrambled\obj\Debug\UIScrambled.csproj.Fody.RuntimeCopyLocal.cache

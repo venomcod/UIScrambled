@@ -43,7 +43,7 @@ namespace UIScrambled
             var varResponse = 0;
             while (suDo != movesLenght)
             {
-                response = rnd.Next(5);
+                response = rnd.Next(6);
                 varResponse = rnd.Next(3);
                 while (response != lastResponse)
                 {
